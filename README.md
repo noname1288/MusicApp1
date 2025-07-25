@@ -59,9 +59,10 @@ app/
 
 ---
 ## App Screenshoots
-![Home Screen](assets/music1.jpeg)
-![System UI](assets/music2.jpeg)
-![Lock Screen](assets/music3.jpeg)
+
+| ![Home Screen](app/src/main/assets/music1.jpeg) | ![System UI](app/src/main/assets/music2.jpeg) | ![Lock Screen](app/src/main/assets/music3.jpeg) |
+|--------------------------------------|--------------------------------------|--------------------------------------|
+
 ---
 
 ## 🚀 Next Steps
